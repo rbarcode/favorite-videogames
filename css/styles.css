@@ -1,6 +1,7 @@
 #firstLine {
   font-weight: bold;
   text-decoration: underline;
+  text-align: center;
 }
 
 .sectionIntro {
@@ -20,7 +21,7 @@
   text-decoration: underline overline;
 }
 
-title.color {
+h1.color {
   color: blue;
 }
 
@@ -31,3 +32,25 @@ ul.color {
 ol.color {
   color: purple
 }
+
+.gowPar {
+  background-color: lightblue;
+  display: block;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  color: white;
+  background-color: black;
+}
+
+.float-container {
+  /*padding: 10px;*/
+}
+
+.float-child {
+  float: left;
+  padding: 10px;
+}
+
