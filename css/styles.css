@@ -19,6 +19,8 @@
 
 .gameTitleSection {
   text-decoration: underline overline;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 h1.color {
@@ -35,6 +37,10 @@ ol.color {
 
 .gowPar {
   background-color: lightblue;
+  border: solid black;
+  padding-left: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
 }
 
 .sidebar {
