@@ -35,7 +35,6 @@ ol.color {
 
 .gowPar {
   background-color: lightblue;
-  display: block;
 }
 
 .sidebar {
@@ -46,11 +45,10 @@ ol.color {
 }
 
 .float-container {
-  /*padding: 10px;*/
+  margin-bottom: 200px;
 }
 
 .float-child {
   float: left;
   padding: 10px;
 }
-
