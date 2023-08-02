@@ -1,0 +1,33 @@
+#firstLine {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.sectionIntro {
+  font-weight: 100;
+  color: blue;
+}
+
+.comment {
+  font-style: italic;
+}
+
+.emphasize {
+  font-weight: bold;
+}
+
+.gameTitleSection {
+  text-decoration: underline overline;
+}
+
+title.color {
+  color: blue;
+}
+
+ul.color {
+  color: red;
+}
+
+ol.color {
+  color: purple
+}
