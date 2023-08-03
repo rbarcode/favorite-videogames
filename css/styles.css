@@ -43,6 +43,11 @@ ol.color {
   box-sizing: border-box;
 }
 
+.gowPar img {
+  margin: auto;
+  width: 50%;
+}
+
 .sidebar {
   width: 30%;
   float: right;
