@@ -69,14 +69,25 @@ ol.color {
   background-color: grey;
 }
 
+.more-games ul {
+  list-style: none;
+}
+
 .rocket-league-profile {
   background-color: pink;
 }
 
 .rocket-league-profile ul {
   border: 2px solid;
+  list-style: disc;
 }
 
 .rocket-league-profile ul li span {
   font-weight: bold;
+}
+
+@media all and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
 }
