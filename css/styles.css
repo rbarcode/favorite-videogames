@@ -56,10 +56,27 @@ ol.color {
 }
 
 .float-container {
+  display: block;
   margin-bottom: 200px;
 }
 
 .float-child {
   float: left;
   padding: 10px;
+}
+
+.more-games {
+  background-color: grey;
+}
+
+.rocket-league-profile {
+  background-color: pink;
+}
+
+.rocket-league-profile ul {
+  border: 2px solid;
+}
+
+.rocket-league-profile ul li span {
+  font-weight: bold;
 }
